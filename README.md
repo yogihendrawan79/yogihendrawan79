@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <div>
   <p>I am very interested in Web Development, especially in Front End Development. I also really like Network Engineering, which is where I was based before I like to study Web Development</p>
   <ul>
-      <li>🌱 I’m currently learning Front End Engineering at Ruangguru Camp</li>
+      <li>🌱 I’m currently internship by Frontend Engineer at UPTD TIKomDIK DISDIK JABAR</li>
       <li>:computer: I'm currently working freelance by Computer Technician</li>
       <li>⚡ Fun fact: I can solve rubiks cube at under 10 seconds 😎</li>
-      <li>:sunglasses: I'm 21 years old</li>
+      <li>:sunglasses: I'm 22 years old</li>
   </ul>
 </div>
 <div>
