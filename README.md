@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <p>I am very interested in Web Development, especially in Front End Development. I also really like Network Engineering, which is where I was based before I like to study Web Development. And now i was like to learn about ROBOT TECH and IoT things.</p>
+  <p>I am very interested in Web Development, especially in Front End Development. I also really like Network Engineering, which is where I was based before I like to study Web Development. And now i was like to learn about ROBO TECH and IoT things.</p>
   <ul>
       <li>🌱 I’m currently freelance by Product Supply at LATIHHOBI</li>
       <li>:computer: I'm currently working freelance by Computer Technician</li>
